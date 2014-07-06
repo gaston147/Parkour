@@ -1,0 +1,7 @@
+name: Parkour
+main: fr.gaston147.parkour.Parkour
+version: 1.0
+
+commands:
+   beginparkour: {}
+   endparkour: {}
